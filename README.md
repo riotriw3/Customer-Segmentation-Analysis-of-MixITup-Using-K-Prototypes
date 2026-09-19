@@ -1,7 +1,5 @@
 # Customer Segmentation Analysis of MixITup Using K-Prototypes
 
-## 📌 About the Project
-
 This project analyzes customer data from **MixITup** to understand different types of customers based on their characteristics, spending behavior, and preferences.
 
 The project uses **customer segmentation** to group customers with similar characteristics. The **K-Prototypes clustering algorithm** is used because the dataset contains both numerical and categorical variables.
@@ -183,24 +181,3 @@ The combination of numerical and categorical variables provides a more complete 
 - Seaborn
 - K-Prototypes
 - Google Colab
-
----
-
-## 🔄 Project Workflow
-
-```text
-Customer Data
-      ↓
-Data Understanding
-      ↓
-Data Cleaning & Preprocessing
-      ↓
-Exploratory Data Analysis
-      ↓
-K-Prototypes Clustering
-      ↓
-4 Customer Segments
-      ↓
-Cluster Analysis
-      ↓
-Customer Insights
